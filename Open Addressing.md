@@ -33,3 +33,4 @@ function doubleHash(key) {
 	return (hash1(key)+i*hash2(key))% table_size
 }
 ```
+
