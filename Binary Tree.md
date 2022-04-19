@@ -1,7 +1,7 @@
 #DataStructures/Algorithms #[Trees](Trees.md)
 
 ```ad-summary
-A Binary Tree is a data structure designed for representing hierarchical data. Binary Trees are sorted alphanumerically so they can be traversed using a Binary Search algorithm, also known as Divide and Conquer.
+A Binary Tree is a data structure designed for representing hierarchical data. Binary [Trees](Trees.md) are sorted alphanumerically so they can be traversed using a Binary Search algorithm, also known as Divide and Conquer.
 ```
 
 
@@ -12,7 +12,7 @@ A Binary Tree is a data structure designed for representing hierarchical data. B
 - Lookup(x) [O (log n) - Logarithmic Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20log%20n%20-%20Logarithmic%20Time)
 - Insert(x) [O (log n) - Logarithmic Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20log%20n%20-%20Logarithmic%20Time)
 - Delete(x) [O (log n) - Logarithmic Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20log%20n%20-%20Logarithmic%20Time)
-- Poorly structured trees can see their performance decrease to [O(n) - Linear Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20n%20-%20Linear%20Time)
+- Poorly structured [trees](Trees.md) can see their performance decrease to [O(n) - Linear Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20n%20-%20Linear%20Time)
 
 
 ## Exercises
