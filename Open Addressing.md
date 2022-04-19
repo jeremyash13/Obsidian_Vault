@@ -4,7 +4,7 @@ Open addressing resolves hash table collisions by seeking out nearby empty cells
 
 # Linear Probing
 - on collision, linearly iterate through the table until an open address/cell is found
-- O(n) - (Linear) [[Time Complexity - Big O Notation]]
+- O(n) - (Linear) [Time Complexity - Big O Notation](Time%20Complexity%20-%20Big%20O%20Notation.md)
 - CONS
 	- when clusters form, performance suffers
 	- O(n) is acceptable efficiency in many cases, but in large datasets will want a more efficient method
@@ -16,7 +16,7 @@ Open addressing resolves hash table collisions by seeking out nearby empty cells
 
 # Double Hashing
 - on collision, send the `Key` through a second hash function
-- O(1) - (Constant) [[Time Complexity - Big O Notation]]
+- O(1) - (Constant) [Time Complexity - Big O Notation](Time%20Complexity%20-%20Big%20O%20Notation.md)
 ```javascript
 function hash1(key) {
 	return key % table_size;
