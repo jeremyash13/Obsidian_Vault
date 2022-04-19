@@ -10,7 +10,7 @@ Open addressing resolves hash table collisions by seeking out nearby empty cells
 	- O(n) is acceptable efficiency in many cases, but in large datasets will want a more efficient method
 - $(i+1)$
 # Quadratic Probing
-- on collision, iterate through the table in a quadratic fashion (i^2) to help reduce the likelihood of clusters forming
+- on collision, iterate through the table in a quadratic fashion $(i^2)$ to help reduce the likelihood of clusters forming
 - can result in an infinite loop, with increased likelihood in smaller datasets
 - $(i^2)$
 
