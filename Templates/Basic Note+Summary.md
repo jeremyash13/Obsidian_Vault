@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #LinkedList
+tags
 
 ```ad-summary
 Summary goes here.
