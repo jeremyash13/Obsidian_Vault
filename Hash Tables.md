@@ -6,7 +6,7 @@
 	- [[Chaining]]
 	- [[Open Addressing]]
 
-# Runtime Complexity of Operations
+# [[Time Complexity - Big O Notation]]
 
 - Insert(x) $O(1)$
 - Remove(x) $O(1)$
