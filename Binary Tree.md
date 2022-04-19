@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #Trees
+#DataStructures/Algorithms #[Trees](Trees.md)
 
 ```ad-summary
 A Binary Tree is a data structure designed for representing hierarchical data. Binary Trees are sorted alphanumerically so they can be traversed using a Binary Search algorithm, also known as Divide and Conquer.
