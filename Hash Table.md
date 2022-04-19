@@ -8,7 +8,7 @@ Hash Tables are designed to store large amounts of data in an `indexed` way, so 
 	- [[Chaining]]
 	- [[Open Addressing]]
 
-# [[Time Complexity - Big O Notation]]
+# Operations and [[Time Complexity - Big O Notation]]
 
 - Insert(x) $O(1)$
 - Remove(x) $O(1)$
