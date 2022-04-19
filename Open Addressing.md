@@ -1,7 +1,7 @@
 #DataStructures/Algorithms #HashTables 
 
 ```ad-summary
-_**Open addressing** resolves [hash table](app://obsidian.md/Hash%20Table.md) collisions by seeking out nearby empty cells_
+**Open addressing** resolves [hash table](app://obsidian.md/Hash%20Table.md) collisions by seeking out nearby empty cells
 ```
 
 # Linear Probing

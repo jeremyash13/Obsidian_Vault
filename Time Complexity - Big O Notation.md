@@ -1,6 +1,13 @@
 #DataStructures/Algorithms 
 
-Time complexity and space complexity usually have a "trade off" type of relationship. In other words, by increasing the amount of memory your algorithm uses you can increase the run time efficiency, and vice versa.
+```ad-summary
+Time and Space Complexity is a method of measuring how an algorithm's run time (Time) and memory requirements (Space) grow in relation to the size of the `Input`.
+
+Big-O-Notation is a method of representing this relationship mathmatically.
+```
+
+
+Time complexity and space complexity usually have a ***trade-off*** type of relationship. In other words, by increasing the amount of memory your algorithm uses you can increase the run time efficiency, and vice versa.
 
 # O(1) - Constant Time
 - has the same run time no matter the `input` size
