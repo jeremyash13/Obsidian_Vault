@@ -1,3 +1,5 @@
+#BlackDesertOnline 
+
 # BDO Life Skills Guide
 ## Farms
 - pepper
