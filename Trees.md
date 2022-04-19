@@ -14,3 +14,6 @@ A Tree is a data structure meant for representing heirarchical data.
 ## Tree Nodes
 	%%go into depth about the structure of a Node Class%%
 	%%node.left, node.right, methods, etc.%%
+
+
+![](Generic_Tree_Example.png)
