@@ -14,5 +14,5 @@ Hash Tables are designed to store large amounts of data in an `indexed` way, so 
 - Remove(x) [O(1) - Constant Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%201%20-%20Constant%20Time)
 - Lookup(x) [O(1) - Constant Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%201%20-%20Constant%20Time)
 
-# Example
+### Example:
 ![[Hash_Table_Example.png]]
