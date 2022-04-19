@@ -1,8 +1,14 @@
 #DataStructures/Algorithms #HashTables
 
-Hash Tables are designed to store large amounts of data in an `indexed` way, so that the data can be searched and returned as fast as possible. Hash Tables use a [[Hash Function]] to map unique identifiers `(Keys)` such as: `integers`, `strings`, names, words, `UUIDs`, etc. into an `Array index`, where the `Key/Value pair` is stored. 
+```ad-summary
+Hash Tables are a data structure designed for storing key/value pairs in a way where data is indexed, so it can be retrieved without having to search the data structure.
+```
+
+
+Hash Tables are designed to store large amounts of data in an `indexed` fashion, so that the data can be retrieved as fast as possible. Hash Tables use a [Hashing Function](Hash%20Function.md) to map unique identifiers `(Keys)` such as: `integers`, `strings`, names, words, `UUIDs`, etc. into an `Array index`, where the `key/value pair` is stored. 
 
 - Used to store key/value pairs
+	- keys must be `unique`
 - [Hash Function](Hash%20Function.md)
 - Collisions
 	- [Chaining](Chaining.md)
