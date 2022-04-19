@@ -1,6 +1,6 @@
 #DataStructures/Algorithms #HashTables 
 
-Open addressing resolves hash table collisions by seeking out nearby empty cells
+Open addressing resolves [hash table](Hash%20Table.md) collisions by seeking out nearby empty cells
 
 # Linear Probing
 - on collision, linearly iterate through the table until an open address/cell is found
@@ -15,7 +15,7 @@ Open addressing resolves hash table collisions by seeking out nearby empty cells
 - $(i^2)$
 
 # Double Hashing
-- on collision, send the `Key` through a second hash function
+- on collision, send the `Key` through a second [hash function](Hash%20Function.md)
 - [O(1) - Constant Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%201%20-%20Constant%20Time)
 ```javascript
 function hash1(key) {
