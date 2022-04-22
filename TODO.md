@@ -5,4 +5,4 @@
 - [ ]  deep dive on Tries functions
 
 - [ ] complete Hash Table Exercises 
-- [ ] complete Hash Table Exercises 
+- [ ] complete Hash Table Exercises
