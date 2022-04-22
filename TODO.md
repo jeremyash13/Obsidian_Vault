@@ -5,4 +5,8 @@
 - [ ]  deep dive on Tries functions
 
 - [ ] complete Hash Table Exercises 
-- [ ] complete Hash Table Exercises
+- [ ] complete Linked List Exercises
+- [ ] complete Queues Exercises
+- [ ] complete Stacks Exercises
+- [ ] complete Binary Trees Exercises
+- [ ] complete AVL Trees Exercises
