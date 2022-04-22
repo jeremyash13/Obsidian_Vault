@@ -1,0 +1,1 @@
+<iframe src="https://read.amazon.com/sample/B08NP6881K?f=1&r=f0faa2ea&sid=144-2972605-6949242&rid=&cid=A2S1W8TWYIJ8Y3&clientId=kfw&l=en_US" title="Beyond Order: 12 More Rules for Life" width="100%" height="600px"></iframe>
