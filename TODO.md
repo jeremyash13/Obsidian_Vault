@@ -3,3 +3,6 @@
 - [ ]  deep dive on AVL tree functions
 - [ ]  deep dive on Heaps functions
 - [ ]  deep dive on Tries functions
+
+- [ ] complete Hash Table Exercises 
+- [ ] complete Hash Table Exercises 
