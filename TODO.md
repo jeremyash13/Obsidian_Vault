@@ -1,0 +1,5 @@
+- [ ] extend hash table notes to include a breakdown of the major class methods.
+- [ ]  deep dive on binary tree functions
+- [ ]  deep dive on AVL tree functions
+- [ ]  deep dive on Heaps functions
+- [ ]  deep dive on Tries functions
