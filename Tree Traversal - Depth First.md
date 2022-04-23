@@ -1,9 +1,11 @@
-tags
+#ComputerScience #DataStructures/Algorithms #Trees 
 
 ```ad-summary
-Summary goes here.
-
+*Depth First Traversal*, is method of traversing a Tree data structure where each node is read level by level. 
 ```
 
+### Heading 3
 
-### Heading 3 
+
+---
+Related: [Trees](Trees.md)
