@@ -6,8 +6,7 @@
 
 ### Breadth First/ Level Order
 
-![](Pasted%20image%2020220423164303.png)
-
+![Untitled-1](Untitled-1.png)
 
 ---
 Related: [Trees](Trees.md)
