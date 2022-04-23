@@ -6,7 +6,7 @@
 
 ### Breadth First/ Level Order
 
-![Untitled-1](Untitled-1.png)
+![Untitled-1](Tree_Traversal-Breadth_First_Example.png)
 
 ---
 Related: [Trees](Trees.md)
