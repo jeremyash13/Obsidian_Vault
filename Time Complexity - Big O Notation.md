@@ -28,6 +28,6 @@ Time complexity and space complexity usually have a ***trade-off-type-relationsh
 ##### O(2^n) - Exponential Time
 - run time grows at the rate of $2^n$
 - very poor efficiency
-- algorithm most likely depends on nested loops
+- nested loops are most likely the culprit of exponential run-time
 
 ![[Time+Space_Complexity_Cheatsheet.png]]
