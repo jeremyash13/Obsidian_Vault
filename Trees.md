@@ -12,7 +12,7 @@ A Tree is a data structure meant for representing heirarchical data.
 - [Tries](Tries.md)
 
 ## Example use cases
-- Represent hierarchical data
+- Represent hierarchical data (e.g. folders, file systems. etc.)
 - Databases
 - Autocompletion
 - Compilers
