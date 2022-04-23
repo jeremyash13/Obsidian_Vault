@@ -5,6 +5,9 @@
 ```
 
 ### Breadth First/ Level Order
+- Start by reading the root node
+- Next, read each child node
+- Then, each child node again, etc.
 
 ![Untitled-1](Tree_Traversal-Breadth_First_Example.png)
 
