@@ -1,7 +1,7 @@
 #ComputerScience #DataStructures/Algorithms #Trees 
 
 ```ad-summary
-*Depth First Traversal*, is method of traversing a Tree data structure where each node is read ...
+*Depth First Traversal*, is method of traversing a Tree data structure where each node is read ....
 ```
 
 ### Pre-Order
