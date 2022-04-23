@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #Queues
+#DataStructures/Algorithms #Queues #ComputerScience
 
 ```ad-summary
 Summary goes here.

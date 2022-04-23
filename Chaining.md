@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #HashTables 
+#DataStructures/Algorithms #HashTables #ComputerScience
 
 ```ad-summary
 Chaining is a method of resolving Hash Table collisions that stores overflow data into a [Linked List](Linked%20List.md).

@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #HashTables 
+#DataStructures/Algorithms #HashTables  #ComputerScience
 
 ```ad-summary
 **Open addressing** resolves [hash table](app://obsidian.md/Hash%20Table.md) collisions by seeking out nearby empty cells

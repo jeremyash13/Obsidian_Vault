@@ -1,4 +1,4 @@
-#DataStructures/Algorithms 
+#DataStructures/Algorithms #ComputerScience
 
 ```ad-summary
 Time and Space Complexity is a method of measuring how an algorithm's run time (Time) and memory requirements (Space) grow in relation to the size of the `Input`.
