@@ -11,6 +11,7 @@
 - CONS:
 	- when clusters form, future insertions slow down
 	- [O(n)](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20n%20-%20Linear%20Time) is acceptable efficiency in many cases, but in large datasets will want a more efficient method
+
 # Quadratic Probing
 - on collision, iterate through the table in a quadratic fashion $(i^2)$ to help reduce the likelihood of clusters forming
 - can result in an infinite loop, with increased likelihood in smaller datasets
