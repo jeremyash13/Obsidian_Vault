@@ -4,7 +4,12 @@
 *Depth First Traversal*, is method of traversing a Tree data structure where each node is read ...
 ```
 
-### Heading 3
+### Pre-Order
+
+### In-Order
+
+### Post-Order
+
 
 
 ---
