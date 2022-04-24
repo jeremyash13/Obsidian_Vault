@@ -7,6 +7,7 @@ returns the height of the `Tree`. `Height` is the distance from the furthest `ch
 
 ###### Example:
 ![Tree-Height_Example](Tree-Height_Example.png)
+													`Binary Tree`
 
 
 ###### Example Code:
