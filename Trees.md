@@ -11,6 +11,16 @@ A Tree is a data structure meant for representing heirarchical data.
 - [Heaps](Heaps.md)
 - [Tries](Tries.md)
 
+
+##### Methods
+- [Tree.insert()](Tree.insert().md): void
+- Tree.find(): boolean
+- [Tree.height()](Tree.height().md): integer
+- [Tree.min()](Tree.min().md): integer
+- Tree.traversePreOrder(): void
+- Tree.traverseInOrder(): void
+- Tree.traversePostOrder(): void
+
 ##### Example use cases
 - Represent hierarchical data (e.g. folders, file systems. etc.)
 - Databases
