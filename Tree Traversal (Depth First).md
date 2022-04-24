@@ -39,6 +39,7 @@ class BinaryTree {
 }
 ```
 
+
 ---
 
 ##### In-Order Traversal
@@ -46,6 +47,28 @@ From `Bottom` to `Top`, read Tree nodes in the order of: `Left, *Root*, Right`. 
 
 ![Tree-Traversal_Depth-First_IN-ODER_Example](Tree-Traversal_Depth-First_IN-ODER_Example.png)
 `output: [1, 4, 6, 7, 8, 9, 10]`
+
+Code Example:
+```javascript 
+// Recursive Solution
+class BinaryTree {
+
+//public method
+  traverseInOrder() {
+   this.#traverseInOrder(this.rootNode);
+  }
+
+// private method
+  #traverseInOrder(node) {
+    if (!node) return;
+    
+    this.#traverseInOrder(node.leftChild);
+    console.log(node.value);
+    this.#traverseInOrder(node.rightChild);
+  }
+}
+```
+
 
 ---
 
@@ -55,6 +78,27 @@ From `Bottom` to `Top`, read Tree nodes in the order of: `Left, Right, *Root*`. 
 
 ![Tree-Traversal_Depth-First_POST-ODER_Example](Tree-Traversal_Depth-First_POST-ODER_Example.png)
 `output: [1, 4, 6, 8, 9, 10, 7]`
+
+Code Example:
+```javascript 
+// Recursive Solution
+class BinaryTree {
+
+//public method
+  traversePostOrder() {
+   this.#traversePostOrder(this.rootNode);
+  }
+
+// private method
+  #traversePostOrder(node) {
+    if (!node) return;
+    
+    this.#traversePostOrder(node.leftChild);
+    console.log(node.value);
+    this.#traversePostOrder(node.rightChild);
+  }
+}
+```
 
 
 ---
