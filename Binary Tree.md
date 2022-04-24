@@ -13,3 +13,7 @@ A Binary Tree is a data structure designed for representing hierarchical data. B
 - Insert(x) [O (log n) - Logarithmic Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20log%20n%20-%20Logarithmic%20Time)
 - Delete(x) [O (log n) - Logarithmic Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20log%20n%20-%20Logarithmic%20Time)
 - Poorly structured [trees](Trees.md) can see their performance decrease to [O(n) - Linear Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20n%20-%20Linear%20Time)
+
+
+---
+Related: [Trees](Trees.md), [Tree Traversal (Depth First)](Tree%20Traversal%20(Depth%20First).md), [Tree Traversal (Breadth First)](Tree%20Traversal%20(Breadth%20First).md)
