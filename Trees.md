@@ -13,13 +13,14 @@ A Tree is a data structure meant for representing heirarchical data.
 
 
 ##### Methods
-- [Tree.insert()](Tree.insert().md): void
-- Tree.find(): boolean
-- [Tree.height()](Tree.height().md): integer
-- [Tree.min()](Tree.min().md): integer
-- Tree.traversePreOrder(): void
-- Tree.traverseInOrder(): void
-- Tree.traversePostOrder(): void
+- [Tree.insert()](Tree.insert().md): Void 
+- [Tree.find()](Tree.find().md): Boolean
+- [Tree.height()](Tree.height().md): Integer
+- [Tree.min()](Tree.min().md): Integer
+- Tree.traversePreOrder(): Void
+- Tree.traverseInOrder(): Void
+- Tree.traversePostOrder(): Void
+
 
 ##### Example use cases
 - Represent hierarchical data (e.g. folders, file systems. etc.)

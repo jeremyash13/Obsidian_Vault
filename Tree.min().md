@@ -8,4 +8,4 @@ Summary goes here.
 `Tree.min(): integer`
 
 ---
-Related: 
+Related: [Trees](Trees.md)

@@ -52,4 +52,4 @@ class BinaryTree {
 
 
 ---
-Related: 
+Related: [Trees](Trees.md)
