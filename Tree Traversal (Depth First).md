@@ -5,14 +5,14 @@
 ```
 
 ###### Table Of Contents:
-[Pre-Order Traversal](#Pre-Order%20Traversal)
-[In-Order Traversal](#In-Order%20Traversal)
-[Post-Order Traversal](#Post-Order%20Traversal)
+1. [Pre-Order Traversal](#Pre-Order%20Traversal)
+2. [In-Order Traversal](#In-Order%20Traversal)
+3. [Post-Order Traversal](#Post-Order%20Traversal)
 
 ---
 
 ##### Pre-Order Traversal
-Tree is traversed and read in the order of: `*Root*, Left, Right`.
+From `Top` to `Bottom`, read Tree nodes in the order of: `*Root*, Left, Right`.
 Print `Root` nodes, followed by `Left` children nodes, and finally `Right` children nodes.
 
 ![Tree-Traversal__Depth-First__PRE-ODER__Example](Tree-Traversal_Depth-First_PRE-ODER_Example.png)
@@ -42,7 +42,7 @@ class BinaryTree {
 ---
 
 ##### In-Order Traversal
-Tree is traversed and read in the order of: `Left, *Root*, Right`. *Outputs in ascending or descending order.* Print 
+From `Bottom` to `Top`, read Tree nodes in the order of: `Left, *Root*, Right`. *Outputs in ascending or descending order.* 
 
 ![Tree-Traversal_Depth-First_IN-ODER_Example](Tree-Traversal_Depth-First_IN-ODER_Example.png)
 `output: [1, 4, 6, 7, 8, 9, 10]`
@@ -50,7 +50,7 @@ Tree is traversed and read in the order of: `Left, *Root*, Right`. *Outputs in a
 ---
 
 ##### Post-Order Traversal
-Tree is traversed and read in the order of: `Left, Right, *Root*`. Post-Order traversal is commonly used when node values need to be passed up along the tree for calculations.
+From `Bottom` to `Top`, read Tree nodes in the order of: `Left, Right, *Root*`. Post-Order traversal is commonly used when node values need to be passed up along the tree for calculations.
 
 
 ![Tree-Traversal_Depth-First_POST-ODER_Example](Tree-Traversal_Depth-First_POST-ODER_Example.png)
