@@ -11,6 +11,27 @@ Tree is traversed and read in the order of: `*Root*, Left, Right`.
 ![Tree-Traversal__Depth-First__PRE-ODER__Example](Tree-Traversal_Depth-First_PRE-ODER_Example.png)
 `output: [7, 4, 1, 6, 9, 8, 10]`
 
+Code Example:
+```javascript 
+// Recursive Solution
+class BinaryTree {
+
+//public method
+  traversePreOrder() {
+   this.#traversePreOrder(this.rootNode);
+  }
+
+// private method
+  #traversePreOrder(node) {
+    if (!node) return;
+    
+    console.log(node.value);
+    this.#traversePreOrder(node.leftChild);
+    this.#traversePreOrder(node.rightChild);
+  }
+}
+```
+
 ---
 
 ##### In-Order Traversal
