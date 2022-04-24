@@ -7,6 +7,7 @@
 
 ##### Pre-Order Traversal
 Tree is traversed and read in the order of: `*Root*, Left, Right`.
+Print `Root` nodes, followed by `Left` children nodes, and finally `Right` children nodes.
 
 ![Tree-Traversal__Depth-First__PRE-ODER__Example](Tree-Traversal_Depth-First_PRE-ODER_Example.png)
 `output: [7, 4, 1, 6, 9, 8, 10]`
@@ -35,7 +36,7 @@ class BinaryTree {
 ---
 
 ##### In-Order Traversal
-Tree is traversed and read in the order of: `Left, *Root*, Right`. *Outputs in ascending or descending order*
+Tree is traversed and read in the order of: `Left, *Root*, Right`. *Outputs in ascending or descending order.* Print 
 
 ![Tree-Traversal_Depth-First_IN-ODER_Example](Tree-Traversal_Depth-First_IN-ODER_Example.png)
 `output: [1, 4, 6, 7, 8, 9, 10]`
