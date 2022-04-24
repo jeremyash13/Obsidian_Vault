@@ -19,7 +19,6 @@ The *Binary Search Tree* only needs to return the left most `value` since values
 
 ```
 
-etc
 
 ---
 Related: [Trees](Trees.md)
