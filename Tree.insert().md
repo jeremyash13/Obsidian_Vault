@@ -1,13 +1,53 @@
 #DataStructuresAlgorithms #Trees 
 
 ```ad-summary
-Summary goes here.
+inserts a new `node` into the `Tree`. in `BinaryTrees`, sorting occurs at the time of inserting a new `node`.
 ```
 
-### Heading 3
+
+###### Example Code:
 `Tree.insert(value: any): integer`
+
 ```javascript 
-// insert method goes here...
+class BinaryTree {
+   insert(v) {
+    let newNode = new Node(v);
+    if (this.rootNode === null) {
+      this.rootNode = newNode;
+      return;
+   }
+  
+    let current = this.rootNode;
+
+    while (true) {
+      if (v < current.value) {
+        // traversing left side
+        if (current.leftChild === null) {
+	    // reached parent. node needs to be inserted to the 
+		// left of current
+        current.leftChild = newNode; // appending new node to  
+        // its parent
+          break;
+        } else {
+          current = current.leftChild;
+        }
+      }
+      
+      if (v > current.value) {
+        // traversing right side
+        if (current.rightChild === null) {
+          // reached parent. node needs to be inserted to the    
+          // right of current
+          current.rightChild = newNode; // appending new node to 
+          // its parent
+          break;
+        } else {
+          current = current.rightChild;
+        }
+      }
+    }
+  }
+}
 ```
 
 
