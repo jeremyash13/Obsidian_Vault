@@ -1,10 +1,10 @@
-- [ ] extend hash table notes to include a breakdown of the major class methods.
+- [ ] extend [hash table](Hash%20Table.md) notes to include a breakdown of the major class methods.
 - [ ]  deep dive on binary tree functions
 - [ ]  deep dive on AVL tree functions
 - [ ]  deep dive on Heaps functions
 - [ ]  deep dive on Tries functions
 
-- [ ] complete Hash Table Exercises 
+- [ ] complete [Hash Table](Hash%20Table.md) Exercises 
 - [ ] complete Linked List Exercises
 - [ ] complete Queues Exercises
 - [ ] complete Stacks Exercises

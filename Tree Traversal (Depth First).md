@@ -6,17 +6,7 @@
 
 
 ##### Pre-Order Traversal
-tags
-
-```ad-summary
-Summary goes here.
-```
-
-### Heading 3
-
-
----
-Related: Tree is traversed and read in the order of: `*Root*, Left, Right`.
+Tree is traversed and read in the order of: `*Root*, Left, Right`.
 
 ![Tree-Traversal__Depth-First__PRE-ODER__Example](Tree-Traversal_Depth-First_PRE-ODER_Example.png)
 `output: [7, 4, 1, 6, 9, 8, 10]`
