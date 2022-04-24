@@ -5,7 +5,7 @@ Returns `True` or `False` if a given value exists in the `Tree`
 ```
 
 
-###### Example Code:
+## Example Code:
 `Tree.find(value: any): boolean`
 
 ```javascript 

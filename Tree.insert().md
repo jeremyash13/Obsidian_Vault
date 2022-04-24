@@ -5,7 +5,7 @@ inserts a new `node` into the `Tree`. in `BinaryTrees`, sorting occurs at the ti
 ```
 
 
-###### Example Code:
+## Example Code:
 `Tree.insert(value: any): integer`
 
 ```javascript 

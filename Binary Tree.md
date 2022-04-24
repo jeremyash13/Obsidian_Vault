@@ -5,7 +5,7 @@ A *Binary Tree* is a data structure designed for representing hierarchical data.
 ```
 
 
-###### Binary Search Tree:
+## Binary Search Tree:
 - Each node can have a max of 2 children/leaves
 - The left child node is always a lower value than its parent node
 - The right child node is always a greater value than its parent node

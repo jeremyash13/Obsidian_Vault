@@ -4,14 +4,14 @@
 *Depth First Traversal*, is method of traversing a Tree data structure where children nodes, a.k.a. leaves, are read before their parent nodes.
 ```
 
-###### Table Of Contents:
+## Table Of Contents:
 1. [Pre-Order Traversal](#Pre-Order%20Traversal)
 2. [In-Order Traversal](#In-Order%20Traversal)
 3. [Post-Order Traversal](#Post-Order%20Traversal)
 
 ---
 
-##### Pre-Order Traversal
+# Pre-Order Traversal
 From `Top` to `Bottom`, read Tree nodes in the order of: `*Root*, Left, Right`.
 Print `Root` nodes, followed by `Left` children nodes, and finally `Right` children nodes.
 
@@ -42,7 +42,7 @@ class BinaryTree {
 
 ---
 
-##### In-Order Traversal
+# In-Order Traversal
 From `Bottom` to `Top`, read Tree nodes in the order of: `Left, *Root*, Right`. *Outputs in ascending or descending order.* 
 
 ![Tree-Traversal_Depth-First_IN-ODER_Example](Tree-Traversal_Depth-First_IN-ODER_Example.png)
@@ -72,7 +72,7 @@ class BinaryTree {
 
 ---
 
-##### Post-Order Traversal
+# Post-Order Traversal
 From `Bottom` to `Top`, read Tree nodes in the order of: `Left, Right, *Root*`. Post-Order traversal is commonly used when node values need to be passed up along the tree for calculations.
 
 

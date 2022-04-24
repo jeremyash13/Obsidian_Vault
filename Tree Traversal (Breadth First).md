@@ -5,7 +5,7 @@
 ```
 
 
-##### Breadth First/ Level Order
+# Breadth First/ Level Order
 - Start by reading the root node
 - Next, read each child node
 - Then, each child node again, etc.

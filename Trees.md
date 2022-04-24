@@ -5,14 +5,14 @@ A Tree is a data structure meant for representing heirarchical data.
 ```
 
 
-##### Types of trees
+# Types of trees
 - [Binary Tree](Binary Tree.md)
 - [AVL Tree](AVL Tree.md)
 - [Heaps](Heaps.md)
 - [Tries](Tries.md)
 
 
-##### Methods
+# Methods
 - [Tree.insert()](Tree.insert().md): Void 
 - [Tree.find()](Tree.find().md): Boolean
 - [Tree.height()](Tree.height().md): Integer
@@ -22,14 +22,14 @@ A Tree is a data structure meant for representing heirarchical data.
 - Tree.traversePostOrder(): Void
 
 
-##### Example use cases
+# Example use cases
 - Represent hierarchical data (e.g. folders, file systems. etc.)
 - Databases
 - Autocompletion
 - Compilers
 - Compression Algorithms (JPEG, MP3)
 
-###### Tree Nodes:
+## Tree Nodes:
 ![](Generic_Tree_Example.png)
 
 
