@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #LinkedList #ComputerScience
+#DataStructuresAlgorithms #LinkedList #ComputerScience
 
 ```ad-summary
 Summary goes here.

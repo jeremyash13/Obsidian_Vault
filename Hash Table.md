@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #HashTables #ComputerScience
+#DataStructuresAlgorithms #HashTables #ComputerScience
 
 ```ad-summary
 Hash Tables are a data structure designed for storing key/value pairs in a way where data is indexed, so it can be retrieved without having to search the data structure.

@@ -1,9 +1,15 @@
-#ComputerScience #DataStructures/Algorithms #Trees 
+#ComputerScience #DataStructuresAlgorithms #Trees 
 
 ```ad-summary
 *Depth First Traversal*, is method of traversing a Tree data structure where children nodes, a.k.a. leaves, are read before their parent nodes.
 ```
 
+###### Table Of Contents:
+[Pre-Order Traversal](#Pre-Order%20Traversal)
+[In-Order Traversal](#In-Order%20Traversal)
+[Post-Order Traversal](#Post-Order%20Traversal)
+
+---
 
 ##### Pre-Order Traversal
 Tree is traversed and read in the order of: `*Root*, Left, Right`.

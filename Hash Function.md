@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #HashTables #ComputerScience
+#DataStructuresAlgorithms #HashTables #ComputerScience
 
 ```ad-summary
 Used to transform a unique identifier such as UUIDs, large numbers, names, words, etc. to an [Array](Array.md) Index. Usually a `Number` or `String` type.

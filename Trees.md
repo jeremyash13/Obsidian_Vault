@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #Trees
+#DataStructuresAlgorithms #Trees
 
 ```ad-summary
 A Tree is a data structure meant for representing heirarchical data.

@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #Trees #ComputerScience
+#DataStructuresAlgorithms #Trees #ComputerScience
 
 ```ad-summary
 Summary goes here.

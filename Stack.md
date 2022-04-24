@@ -1,4 +1,4 @@
-#DataStructures/Algorithms #Stacks #ComputerScience
+#DataStructuresAlgorithms #Stacks #ComputerScience
 
 ```ad-summary
 Summary goes here.
