@@ -17,6 +17,7 @@ A Tree is a data structure meant for representing heirarchical data.
 - [Tree.find()](Tree.find().md): Boolean
 - [Tree.height()](Tree.height().md): Integer
 - [Tree.min()](Tree.min().md): Integer
+- [Tree.equals()](Tree.equals().md): Boolean
 - Tree.traversePreOrder(): Void
 - Tree.traverseInOrder(): Void
 - Tree.traversePostOrder(): Void

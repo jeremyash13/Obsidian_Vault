@@ -7,7 +7,7 @@ The *Binary Search Tree* only needs to return the left most `value` since values
 ```
 
 
-## Example Code:
+### Example Code:
 `Tree.min(): integer`
 
 													Binary Tree solution:

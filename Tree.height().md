@@ -10,7 +10,7 @@ returns the height of the `Tree`. `Height` is the distance from the furthest `ch
 															`Binary Tree`
 
 
-## Example Code:
+### Example Code:
 `Tree.height(): integer`
 
 ```javascript
