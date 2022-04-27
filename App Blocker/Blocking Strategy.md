@@ -7,3 +7,6 @@
 https://stackoverflow.com/questions/50999210/how-to-detect-when-a-new-process-is-started
 
 [Win32_ProcessTrace class](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/krnlprov/win32-processtrace)
+
+==TODO:==
+- [ ] research viability of blocking websites at the system level as opposed to using a web extension. (altering HOSTS file?)
