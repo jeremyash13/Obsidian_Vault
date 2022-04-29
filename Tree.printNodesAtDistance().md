@@ -1,12 +1,12 @@
 #DataStructuresAlgorithms #ComputerScience #Trees 
 
 ```ad-summary
-`Prints` or `returns` all `nodes` at the given distance away from another `node`.
+`Prints` or `returns` all `nodes` at the given distance away from `root`.
 ```
 
 ### Example Code:
 
-`Tree.printNodesAtDistance(node: Node, distance: Integer): Array`
+`Tree.printNodesAtDistance(distance: Integer): Array`
 ```javascript
 // Recursive Method
 
