@@ -21,6 +21,8 @@ A Tree is a data structure meant for representing heirarchical data.
 - Tree.traversePreOrder(): Void
 - Tree.traverseInOrder(): Void
 - Tree.traversePostOrder(): Void
+- [Tree.isBinarySearch()](Tree.isBinarySearch().md): Boolean
+- [Tree.printNodesAtDistance()](Tree.printNodesAtDistance().md): Array
 
 
 # Example use cases
