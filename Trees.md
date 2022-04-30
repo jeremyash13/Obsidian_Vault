@@ -11,16 +11,20 @@ A Tree is a data structure meant for representing heirarchical data.
 - [Heaps](Heaps.md)
 - [Tries](Tries.md)
 
+# Traversal Methods
+- [Tree Traversal (Depth First)](Tree%20Traversal%20(Depth%20First).md)
+	- [Pre-Order Traversal](Tree%20Traversal%20(Depth%20First).md#Pre-Order%20Traversal)
+	- [In-Order Traversal](Tree%20Traversal%20(Depth%20First).md#In-Order%20Traversal)
+	- [Post-Order Traversal](Tree%20Traversal%20(Depth%20First).md#Post-Order%20Traversal)
+- [Tree Traversal (Breadth First)](Tree%20Traversal%20(Breadth%20First).md)
+	- [Breadth First Level Order](Tree%20Traversal%20(Breadth%20First).md#Breadth%20First%20Level%20Order)
 
-# Methods
+# Common Methods
 - [Tree.insert()](Tree.insert().md): Void 
 - [Tree.find()](Tree.find().md): Boolean
 - [Tree.height()](Tree.height().md): Integer
 - [Tree.min()](Tree.min().md): Integer
 - [Tree.equals()](Tree.equals().md): Boolean
-- Tree.traversePreOrder(): Void
-- Tree.traverseInOrder(): Void
-- Tree.traversePostOrder(): Void
 - [Tree.isBinarySearch()](Tree.isBinarySearch().md): Boolean
 - [Tree.printNodesAtDistance()](Tree.printNodesAtDistance().md): Array
 

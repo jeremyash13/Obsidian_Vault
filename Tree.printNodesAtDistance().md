@@ -28,5 +28,6 @@ printNodesAtDistance(distance) {
     this.#printNodesAtDistance(currentNode.rightChild, distance - 1);
 }
 ```
+
 ---
 Related: [Trees](Trees.md)
