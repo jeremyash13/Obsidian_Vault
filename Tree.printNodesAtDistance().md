@@ -8,20 +8,25 @@
 
 `Tree.printNodesAtDistance(distance: Integer): Array`
 ```javascript
-// Recursive Method
+// Recursive Solution
 
 // public method
 printNodesAtDistance(distance) {
-    this.#printNodesAtDistance(this.rootNode, distance);
+	let nodesArr = []; // transfer to recursive func via dependency 
+					   // injection
+					   
+    this.#printNodesAtDistance(this.rootNode, distance, nodesArr);
+    return nodesArr;
 }
 
 // private method
-#printNodesAtDistance(currentNode, distance) {
+#printNodesAtDistance(currentNode, distance, nodesArr) {
     if (!currentNode) {
+      // blank/null node found (reached end of the tree)
       return;
     }
     if (distance === 0) {
-      console.log(currentNode.value);
+	  nodesArr.push(currentNode.value);
       return;
     }
     this.#printNodesAtDistance(currentNode.leftChild, distance - 1);
