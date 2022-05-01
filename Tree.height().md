@@ -37,4 +37,4 @@ class BinaryTree {
 ```
 
 ---
-Related: [Trees](Trees.md)
+Related: [Trees](Trees.md), [Tree.printNodesAtDistance()](Tree.printNodesAtDistance().md), [Tree.traverseLevelOrder()](Tree.traverseLevelOrder().md)
