@@ -1,7 +1,9 @@
 #DataStructuresAlgorithms #Trees 
 
 ```ad-summary
-returns the height of the `Tree`. `Height` is the distance from the furthest `child/leaf` to the `root`. Runs in [O(n) - Linear Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20n%20-%20Linear%20Time)
+returns the height of a `node`. `Height` is the distance from the furthest `child/leaf` to a given `node` (counted starting from the bottom-most node). Runs in [O(n) - Linear Time](Time%20Complexity%20-%20Big%20O%20Notation.md#O%20n%20-%20Linear%20Time)
+
+`Height` is the inverse of `Depth`.
 ```
 
 
