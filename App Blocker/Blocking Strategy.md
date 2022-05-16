@@ -9,6 +9,7 @@ https://stackoverflow.com/questions/50999210/how-to-detect-when-a-new-process-is
 [Win32_ProcessTrace class](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/krnlprov/win32-processtrace)
 
 ==TODO:==
-- [ ] research viability of blocking websites at the system level as opposed to using a web extension. (altering HOSTS file?) (C:/Windows/System32/drivers/etc)
+- [x] research viability of blocking websites at the system level as opposed to using a web extension. (altering HOSTS file?) (C:/Windows/System32/drivers/etc)
+	- not a good idea since admin privileges are needed
 
 https://www.freecodecamp.org/news/how-to-find-and-edit-a-windows-hosts-file/

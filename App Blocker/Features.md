@@ -8,8 +8,9 @@
 - block on a schedule
 - block until restart
 - block until a password is entered
+- option to enable *Distraction Free* YouTube
+	- instead of blocking YT, block all suggested video feeds. so YT *search* can still be used as a learning resource and the user cant get sucked down rabbit holes
 
 #### Installation:
-- auto detect all browsers
+- auto detect all browsers on machine
 - walk user through installing the browser extension, 1 browser at a time.
-- 
