@@ -14,8 +14,11 @@
 	- ability to modify *Distraction Free YT* as to only show recommendations from "productive" sources. (will need to research the YouTube API to find out if this is worth the effort)
 		- e.g. if you are a software developer, only show recommendations from the developer category.
 - NETWORK controlled blocking
-	- a device using a "Admin" account can dictate blocking policy for all devices on the local network
+	- a device using an "Admin" account can dictate blocking policy for all devices on the local network
 
 #### Installation:
 - auto detect all browsers on machine
 - walk user through installing the browser extension, 1 browser at a time.
+
+#### Licensing
+- 
