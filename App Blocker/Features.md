@@ -18,5 +18,11 @@
 - auto detect all browsers on machine
 - walk user through installing the browser extension, 1 browser at a time.
 
-#### Licensing
-- 
+#### Licensing:
+- $34.99 for a single lifetime license,  +$9.99 to extend the license to each additional device.
+- app will run a separate service for monitoring license status (that way if the user attempts to block internet traffic to/from the app, the licensing can still be validated)
+
+#### Blocker Defense System:
+
+###### Defending browser extension uninstalls:
+- Method 1: Keep a *secret* backup of browser extension folder, watch browser extension folder for changes, automatically restore missing files from secret backup.  ==Need to test this==

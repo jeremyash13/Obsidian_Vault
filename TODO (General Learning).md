@@ -1,4 +1,4 @@
-### Computer Science
+### Software Developer
 
 - [ ] Data structures and algorithms
 - [ ] GIT
