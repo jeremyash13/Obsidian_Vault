@@ -13,6 +13,8 @@
 	- instead of blocking YT, block all suggested video feeds. so YT *search* can still be used as a learning resource and the user cant get sucked down rabbit holes
 - NETWORK controlled blocking
 	- a device using an "Admin" account can dictate blocking policy for all devices on the local network
+- Indefinite blocks where permission to access a blocked item has to be granted by an admin.
+	- slave device requests permission, a notification is sent to parent, access is approved/denied. 
 
 #### Installation:
 - auto detect all browsers on machine
