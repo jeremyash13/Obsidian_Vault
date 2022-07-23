@@ -1,3 +1,7 @@
+.NET Core Worker Service
+- SystemD NuGet package
+---
+
 - Start():
 - Stop():
 - TerminateProcess():
