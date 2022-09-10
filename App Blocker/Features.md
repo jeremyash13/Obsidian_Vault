@@ -26,6 +26,7 @@
 - block until restart
 - block until a password is entered
 - ==MAYBE== add an option to *pay a ransom* to release the block! 🤯🤯🤑🤑
+- Block waits until to become active
 
 #### Remote Blocking Controls (parental controls):
 - a device using an "Admin" account can dictate blocking policy for all devices on the local network
