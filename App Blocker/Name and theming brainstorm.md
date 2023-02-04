@@ -1,5 +1,0 @@
-Transcend
-Zen
-Monk
-Ubermensch
-Opalescent
