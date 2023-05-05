@@ -1,8 +1,3 @@
 
 
-Windows Service:
-
-Communication Proxy (IPC):
-
-Browser Extension:
-
+![[Attachments/Diagram.svg]]
