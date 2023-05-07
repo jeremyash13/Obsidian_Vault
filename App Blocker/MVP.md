@@ -1,5 +1,3 @@
-# MVP
----
 
 #### App
 - Blocking apps
