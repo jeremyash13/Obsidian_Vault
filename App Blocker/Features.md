@@ -19,7 +19,7 @@
 - can create your own custom block list and/or extend a premade list
 - option to enable *Distraction Free* YouTube
 	- instead of blocking YT, block all suggested video feeds. so YT *search* can still be used as a learning resource, but the user cant get sucked down rabbit holes
-- Option to enable A.I. detection of Adult/Racy/Gory content present on a web page
+- Option to enable A.I. detection of Adult/Racy/Gory content present on a web page (Maybe, due to API costs)
 
 #### Blocking Policies:
 - block for a timed duration
