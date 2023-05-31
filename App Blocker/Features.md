@@ -12,13 +12,14 @@
 		- somehow find a way to cause the folder to "be in use" so the folder cannot be renamed or moved while the block is active
 			- alternatively, add the folder itself to some sort of list to be tracked, hook into system events and watch for changes to this folder, try to intercept actions.
 
-#### Website Blocking:
+#### Browser Extension / Website Blocking:
 - Create a browser extension that blocks sites
 - renders a custom page when visiting a blocked site
 - have a few prepared lists of well known distracting and harmful sites to choose from
 - can create your own custom block list and/or extend a premade list
 - option to enable *Distraction Free* YouTube
 	- instead of blocking YT, block all suggested video feeds. so YT *search* can still be used as a learning resource, but the user cant get sucked down rabbit holes
+- Option to enable A.I. detection of Adult/Racy/Gory content present on a web page
 
 #### Blocking Policies:
 - block for a timed duration
@@ -42,7 +43,7 @@
 
 #### Licensing:
 - $34.99 for a single lifetime license,  +$9.99 to extend the license to each additional device.
-- app will run a separate service for monitoring license status (that way if the user attempts to block internet traffic to/from the app, the licensing can still be validated)
+- app will run a separate service for monitoring license status (that way if the user attempts to block internet traffic to/from the app, the licensing can still be validated). 
 - upon purchase, will be granted a serial # to enter into the software
 - licensing can be managed through website (adding new licenses, activating/deactivating serials tied to devices)
 
