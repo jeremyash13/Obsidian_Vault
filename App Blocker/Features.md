@@ -7,7 +7,7 @@
 
 #### App Blocking:
 - Block .exe's (block all in a folder, such as steam library, or select 1 by 1)
-	- recursively search a selected folder for .exe's, write the filenames to an encrypted block list on hard drive
+	- recursively search a selected folder for .exe's, write the filenames to an encrypted (encrypted so blocks can't be edited to bypass active block) block list on hard drive
 		- re-do the recursive search on block activation, incase file names have changed
 		- somehow find a way to cause the folder to "be in use" so the folder cannot be renamed or moved while the block is active
 			- alternatively, add the folder itself to some sort of list to be tracked, hook into system events and watch for changes to this folder, try to intercept actions.
