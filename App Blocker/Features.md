@@ -12,6 +12,9 @@
 		- somehow find a way to cause the folder to "be in use" so the folder cannot be renamed or moved while the block is active
 			- alternatively, add the folder itself to some sort of list to be tracked, hook into system events and watch for changes to this folder, try to intercept actions.
 
+#### Daily / Weekly Limits:
+- Monitor usage of certain processes and websites, allowing access until the allotted amount of time has been used.
+
 #### Browser Extension / Website Blocking:
 - Create a browser extension that blocks sites
 - renders a custom page when visiting a blocked site
@@ -27,6 +30,7 @@
 - block until restart
 - block until a password is entered
 - ==MAYBE== add an option to *pay a ransom* to release the block! 🤯🤯🤑🤑
+	- customers might complain poor app UI/UX caused them into an aggressive block, forcing them to pay a fee to release.
 
 #### Remote Blocking Controls (parental controls):
 - a device using an "Admin" account can dictate blocking policy for all devices on the local network
@@ -41,8 +45,12 @@
 - auto detect all browsers on machine
 - walk user through installing the browser extension, 1 browser at a time.
 
+#### Support:
+- Allow a way to force end all blocks via a backdoor
+	- (? option 1) generate a unique password for each customer at account creation. Software will store a copy in the computer's registry (so it knows what password it will allow). Customer support can remote into user's computer and enter password to release blocks. Bundle some lightweight/portable (open source hopefully) remote access software with the app, so that browsers and websites being blocked wont get in the way of remoting in.
+
 #### Licensing:
-- $34.99 for a single lifetime license,  +$9.99 to extend the license to each additional device.
+- $29.99 for a single lifetime license,  +$9.99 to extend the license to each additional device.
 - app will run a separate service for monitoring license status (that way if the user attempts to block internet traffic to/from the app, the licensing can still be validated). 
 - upon purchase, will be granted a serial # to enter into the software
 - licensing can be managed through website (adding new licenses, activating/deactivating serials tied to devices)
