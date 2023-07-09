@@ -22,12 +22,12 @@
 - can create your own custom block list and/or extend a premade list
 - option to enable *Distraction Free* YouTube
 	- instead of blocking YT, block all suggested video feeds. so YT *search* can still be used as a learning resource, but the user cant get sucked down rabbit holes
-- Option to enable A.I. detection of Adult/Racy/Gory content present on a web page (Maybe, due to API costs)
+- Option to enable A.I. detection of Adult/Racy/Gory content present on a web page (Maybe/maybe not, due to API costs)
 
 #### Blocking Policies:
-- block for a timed duration
+- block for a timed duration ✔
 - block on a schedule
-- block until restart
+- block until restart ✔
 - block until a password is entered
 - ==MAYBE== add an option to *pay a ransom* to release the block! 🤯🤯🤑🤑
 	- customers might complain poor app UI/UX caused them into an aggressive block, forcing them to pay a fee to release.
