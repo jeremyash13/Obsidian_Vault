@@ -1,1 +1,5 @@
 The native application (the message relay process in my case) is not installed or managed by the browser. The native application is installed, using the underlying operating system's installation machinery. Create a JSON file called the "host manifest" or "app manifest". ==Install the JSON file in a defined location (in the OS registry). The app manifest file will describe how the browser can connect to the native application.==
+
+#### Registry
+
+The browser finds the extension based on registry keys which are located in a specific location. ==You need to add them either programmatically with your final application or manually== if you are using the example from GitHub. For more details, refer to [Manifest location](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Native_manifests#manifest_location).
