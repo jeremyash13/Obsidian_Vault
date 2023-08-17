@@ -1,12 +1,13 @@
  
 #### App
-- Blocking apps
-- Blocking websites through browser extension
-- Blocking Policies
+- Blocking apps ✔
+- Blocking websites through browser extension ✔
+- Blocking Policies ✔
 - Licensing, activation
 - Walkthrough installation
 - A list of DO NOTS while the block is active
 - Unit tests for each component/feature
+- Self Updating
 
 #### Website
 - Landing page

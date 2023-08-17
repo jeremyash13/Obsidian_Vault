@@ -2,8 +2,8 @@
 ---
 
 #### General:
-- all blocking to be carried out by a service to be running in the background
-	- the GUI will instruct the service to activate/deactivate 
+- all blocking to be carried out by a service to be running in the background✔
+	- the GUI will instruct the service to activate/deactivate ✔
 
 #### App Blocking:
 - Block .exe's (block all in a folder, such as steam library, or select 1 by 1)
@@ -16,11 +16,11 @@
 - Monitor usage of certain processes and websites, allowing access until the allotted amount of time has been used.
 
 #### Browser Extension / Website Blocking:
-- Create a browser extension that blocks sites
-- renders a custom page when visiting a blocked site
-- have a few prepared lists of well known distracting and harmful sites to choose from
-- can create your own custom block list and/or extend a premade list
-- option to enable *Distraction Free* YouTube
+- Create a browser extension that blocks sites✔
+- renders a custom page when visiting a blocked site✔
+- have a few prepared lists of well known distracting and harmful sites to choose from ✔
+- can create your own custom block list and/or extend a premade list✔
+- option to enable *Distraction Free* YouTube ✔
 	- instead of blocking YT, block all suggested video feeds. so YT *search* can still be used as a learning resource, but the user cant get sucked down rabbit holes
 - Option to enable A.I. detection of Adult/Racy/Gory content present on a web page (Maybe/maybe not, due to API costs)
 
@@ -51,7 +51,7 @@
 
 #### Licensing:
 - $29.99 for a single lifetime license,  +$9.99 to extend the license to each additional device.
-- app will run a separate service for monitoring license status (that way if the user attempts to block internet traffic to/from the app, the licensing can still be validated). 
+- license validation will happen via authentication server and registry keys
 - upon purchase, will be granted a serial # to enter into the software
 - licensing can be managed through website (adding new licenses, activating/deactivating serials tied to devices)
 
