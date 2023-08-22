@@ -1,0 +1,13 @@
+### Firebase
+- Cloud Functions (serverless)
+	- process stripe
+	- capture user credentials, save to DB
+		- Email
+		- Name
+		- Invoice?
+	- generate Phoenix License key
+		- save to DB, associated with user credentials
+- Cloud Storage
+	- storing/serving the phoenix published package
+- Hosting
+	- HTML pages
