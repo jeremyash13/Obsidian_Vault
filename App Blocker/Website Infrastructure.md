@@ -9,5 +9,6 @@
 		- save to DB, associated with user credentials
 - Cloud Storage
 	- storing/serving the phoenix published package
-- Hosting
-	- HTML pages
+- Firebase Hosting (CDN)
+	- HTML pages, static site.
+	- google analytics
