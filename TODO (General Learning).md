@@ -1,13 +1,13 @@
 ### Software Developer
 
-- [ ] Data structures and algorithms
+- [x] Data structures and algorithms
 - [ ] GIT
 - [ ] Design Patterns
-- [ ] C#
-- [ ] .NET Core
+- [x] C#
+- [x] .NET Core
 - [ ] Asp .NET
 - [ ] Blazor
-- [ ] VueJS
+- [ ] Svelte
 - [ ] Unit testing
 - [ ] Integration testing
 - [ ] End-to-end testing
