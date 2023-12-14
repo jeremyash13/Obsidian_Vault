@@ -17,3 +17,4 @@
 - Answer The Public - https://answerthepublic.com/
 - Hemmingway Editor - https://hemingwayapp.com/
 - Grammarly - https://app.grammarly.com/
+- Jasper AI - https://www.jasper.ai/
