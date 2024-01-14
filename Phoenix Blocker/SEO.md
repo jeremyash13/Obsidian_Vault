@@ -1,8 +1,13 @@
-#### Keywords to rank for on google
+#### Keywords/Topics to rank for on google
 
 - Social Media Addiction
 - Video Game Addiction
+	- How to stop video game addiction
+	- Tips for quitting video games
 - Porn Addiction
+	- The effects of excessive porn use on the brain
+	- How porn affects relationships
+	- Tips for quitting porn
 - ADHD
 - Low Motivation
 - App Blocker
