@@ -1,7 +1,7 @@
 - Shimmering Skylines Window Cleaning (AVAILABLE)
-- Ascension Window Cleaning
+- ~~Ascension Window Cleaning~~
 - Treasure Valley Pro Wash
-- Treasure Valley Window Cleaning (TAKEN)
+- ~~Treasure Valley Window Cleaning (TAKEN)~~
 - Starling something
 - Pure Professional Window Cleaning (AVAILABLE)
 - Sunlit Solutions Window Cleaning (AVAILABLE)
