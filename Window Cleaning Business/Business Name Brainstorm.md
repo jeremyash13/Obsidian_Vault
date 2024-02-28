@@ -1,4 +1,4 @@
-- Shimmering Skylines
+- Shimmering Skylines Window Cleaning
 - Ascension Window Cleaning
 - Treasure Valley Pro Wash
-- Treasure Valley Window Cleaning
+- Treasure Valley Window Cleaning (TAKEN)
