@@ -25,3 +25,4 @@
 
 ### Business Cards & Flyers
 - UPrint - https://www.uprinting.com/
+- Flyer templates - https://www.postermywall.com/
