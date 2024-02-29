@@ -3,7 +3,8 @@
 - Treasure Valley Pro Wash
 - ~~Treasure Valley Window Cleaning (TAKEN)~~
 - Starling something
-- Purely Professional Window Cleaning (AVAILABLE)
+- ~~Purely Professional Window Cleaning (AVAILABLE)~~
 - Sunlit Solutions Window Cleaning (AVAILABLE)
 - Shiny Side Up Window Cleaning
-- xxx Window Cleaning
+- Shimmer Window Cleaning
+- Flawless Window Cleaning
