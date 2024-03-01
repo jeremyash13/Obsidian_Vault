@@ -10,6 +10,7 @@
 - What are your sales projections?
 ---
 - Flyers
+- EDDM Postcards (Every door direct mail)
 - Door-to-door
 - Facebook ads
 - Google search ads
