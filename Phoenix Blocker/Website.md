@@ -12,3 +12,7 @@
 - Firebase Hosting (CDN)
 	- HTML pages, static site.
 	- google analytics
+
+---
+- Nodejs email sending library - Nodemailer
+- HTML Email Generator (Free) - https://beefree.io
