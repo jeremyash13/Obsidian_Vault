@@ -8,7 +8,7 @@
 - Shiny Side Up Window Cleaning
 - Shimmer Window Cleaning
 - Flawless Window Cleaning
-- Summit Window Cleaning Co.
+- ~~Summit Window Cleaning Co.~~
 - Hero Window Cleaning Co.
 - Blue Ridge Window Cleaning Co.
 - 
