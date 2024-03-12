@@ -10,7 +10,8 @@
 - What are your sales projections?
 ---
 - Flyers
-	- Sping season - bright pastel colors (pastel green, pastel blue, etc.)
+	- Spring season - bright pastel colors (pastel green, pastel blue, etc.)
+	- Highlight 2 day rain guarantee
 - EDDM Postcards (Every door direct mail)
 - Door-to-door
 - Facebook ads
