@@ -17,7 +17,13 @@
 - Facebook ads
 - Google search ads
 
-# Lorem
+# Services
+
+- Window Cleaning
+- Hardwater Removal
+- Window Restoration? (Maybe) (Could be an opportunity to stand out from competition)
+	- Remove scratches and etching due to hardwater
+	- use same or similar techniques for removing scratches on auto glass
 
 # Lorem
 
