@@ -4,3 +4,11 @@
 - must quickly run around and gather resources (chopping down trees and such) and build base and defenses before the next wave of enemies come.
 - (maybe) base building between waves is limited to a timer to increase game pace.
 - RPG elements such as leveling up, stat allocation, upgrading tools for gathering resources.
+
+###### Hotline Miami inspired top-down shooter
+
+- top-down/isometric-view camera
+- very fast paced gun play and katana play
+- very gory
+- cel shaded aesthetic
+- inspired by "Suit For Hire"
